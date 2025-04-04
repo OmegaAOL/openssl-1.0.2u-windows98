@@ -1,4 +1,4 @@
-# OpenSSL 1.0.2u for Windows 98
+# OpenSSL 1.0.2u and 1.0.2h for Windows 98
 
 I looked for a prebuilt binary for this all over the internet, couldn't find one, so made my own. Should save you from having to install VC++2005 to compile it.
 Yes, I downloaded Visual Studio 2005 just for compiling openssl.
