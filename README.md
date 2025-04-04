@@ -1,4 +1,4 @@
-# OpenSSL 1.0.2u and 1.0.2h, including libraries and headers for binding to cURL / any other program
+# OpenSSL 1.0.2u and 1.0.2h, including libraries and headers for binding to cURL, that runs on unmodified Windows 98
 
 Much more useful to you will probably be the sister repository of this one, curl-windows98.
 
