@@ -1,6 +1,7 @@
-# OpenSSL 1.0.2u and 1.0.2h, including libraries and headers for binding to cURL, that runs on unmodified Windows 98
+# OpenSSL 1.0.2u and 1.0.2h builds that runs on unmodified Windows 98
 
-Much more useful to you will probably be the sister repository of this one, curl-windows98.
+Much more useful to you will probably be the sister repository of this one, curl-windows98. If you want to build your own cURL, of a later version
+perhaps, these builds include libraries and header files for linking to cURL or any other OpenSSL-dependent program
 
 I looked for a prebuilt binary for this all over the internet, couldn't find one, so made my own. Should save you from having to install VC++2005 to compile it.
 Yes, I downloaded Visual Studio 2005 just for compiling openssl. 
